@@ -1,9 +1,1 @@
-http://someonewhocares.org/hosts/hosts
-https://filters.adtidy.org/extension/chromium/filters/11.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/clean.list
